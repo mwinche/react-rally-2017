@@ -11,3 +11,5 @@ React Really 2017
 * LUNCH
 * [Ben Ilegbodu - Layperson's guide to React Fiber](./Ben%20Ilegbodu)
 * [Bonnie Milián - ReacTex: using React Native and Neural Networks to recognize handwritten equations](./Bonnie%20Milian.md)
+* [Nicolas Gallagher - Twitter Lite, React Native, and Progressive Web Apps](./Nicolas%20Gallagher.md)
+* [Jana Beck - React-ing htmlFor=empathy](./Jana%20Beck.md)
