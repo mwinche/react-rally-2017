@@ -19,4 +19,9 @@ D3 + React
   * But if we're crafting a whole UI, then React is really helpful
 * Use React with D3 to componentize visualizations and manage interaction state
 * Never let D3 and React control the same part of the DOM (seems obvious but will cause terrible bugs)
-* 
+
+Links:
+
+* [Slides](http://sxywu.com/react-d3)
+* [Example 1](https://bl.ocks.org/sxywu/7785064979f1e03865625b083741bf69/4b7e548a5c29c105d3f67e2cb195b9382e284eaa)
+* [Example 2](https://bl.ocks.org/sxywu/b27228f6e37b45a648c78bc196b0e448/085355fe64b7f4849e9ade1cbbbb3c6bc0d57924)
