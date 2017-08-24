@@ -10,4 +10,4 @@ React Really 2017
 * [Lin Clark - What WebAssembly means for React](./Lin%20Clark.md)
 * LUNCH
 * [Ben Ilegbodu - Layperson's guide to React Fiber](./Ben%20Ilegbodu)
-* [Bonnie Milián]()
+* [Bonnie Milián - ReacTex: using React Native and Neural Networks to recognize handwritten equations](./Bonnie%20Milian.md)
