@@ -3,4 +3,5 @@ Bonnie Milián - ReacTex: using React Native and Neural Networks to recognize ha
 
 @BonnieMilianB
 
+* Deep Learning, use APIs like IBM Watson and Google Cloud
 * 
