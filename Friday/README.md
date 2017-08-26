@@ -12,4 +12,4 @@ React Really 2017
 * [Justice Mba - Demystifying setState()](./Justice%20Mba.md)
 * [David Khourshid - Infinitely Better UIs with Finite Automata](./David%20Khourshid.md)
 * [Cara Kuei - Start a conversation between browser windows](./Cara%20Kuei/md)
-* [Max Stoiber - Styling component-based systems](./Max%mdStoiber.md)
+* [Max Stoiber - I want you to contribute to open source](./Max%mdStoiber.md)
